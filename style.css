@@ -65,7 +65,7 @@ body::after {
 .card-body {
   padding: 10px 0;
   height: 450px;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .todo-list {
